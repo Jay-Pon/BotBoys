@@ -36,3 +36,59 @@
     transform: rotate(360deg);
   }
 }
+
+.home-navbar{
+  background-color: black;
+}
+
+.navbar-text{
+  color: white;
+}
+
+.navbar-text:hover{
+  color: white;
+  text-decoration: underline;
+}
+
+.resize {
+  width:100%; 
+  height: auto;
+}
+
+.customsquare{
+  background-color: #05386b;
+  height: 75v;
+}
+.custom-text{
+  color: white;
+  font-family: "Stardos Stencil";
+  font-size: 40pt;
+  font-weight: bold;
+}
+
+.aboutsquare{
+  background-color: #ffffff;
+  width: 100%;
+  height: 25vh;
+}
+.aboutsquare-text{
+  color: black;
+  font-family: "Stardos Stencil";
+  font-size: 40pt;
+  font-weight: bold;
+}
+
+.treasury{
+  background-color: #5cdb95;
+  height: 100%;
+  border: 2px solid red;
+}
+.treasury-text{
+  color:  #05386b;
+  font-family: "Stardos Stencil";
+  font-size: 40pt;
+  font-weight: bold;
+}
+
+/* #5cdb95 - green
+  #edf5e1 - whitish  */
